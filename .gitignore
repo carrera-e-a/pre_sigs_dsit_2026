@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda environment
+pre_sigs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (NO subas bases de datos grandes)
+*.csv
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
